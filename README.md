@@ -1,4 +1,3 @@
-Here’s a captivating and structured **GitHub README** for your **Low-Cost Cardiopulmonary Resuscitation (CPR) Device** project, emphasizing its **mechatronic marvel, novelty, and impact**. It also mentions that a **pre-print has been submitted**.
 
 # 🚑 Low-Cost Intelligent Cardiopulmonary Resuscitation (CPR) Device  
 **An Affordable, Smart, and Mechatronic Life-Saving Marvel**  
