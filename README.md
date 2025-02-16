@@ -3,9 +3,6 @@ Here’s a captivating and structured **GitHub README** for your **Low-Cost Card
 # 🚑 Low-Cost Intelligent Cardiopulmonary Resuscitation (CPR) Device  
 **An Affordable, Smart, and Mechatronic Life-Saving Marvel**  
 
-![CPR Device](https://upload.wikimedia.org/wikipedia/commons/8/86/CPR.svg)  
-*Revolutionizing Automated Resuscitation for a Better Survival Rate*  
-
 ## 📜 Project Overview  
 **Cardiac arrest is one of the leading causes of sudden fatalities worldwide.**  
 With manual chest compressions being **exhausting, inconsistent, and error-prone**, this project presents an **intelligent, low-cost, and efficient Cardiopulmonary Resuscitation (CPR) device** designed to enhance **blood flow augmentation** and **hemodynamic stability**.  
@@ -46,10 +43,6 @@ This project aligns with the **American Heart Association (AHA) CPR Guidelines**
 - **Real-time CPR Data Processing**  
 
 ## 📷 Device Architecture  
-
-📌 **Overall System Design**  
-![Device Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/AED_usage.svg/2560px-AED_usage.svg.png)  
-(*Illustrative representation, replace with actual project images*)  
 
 🛠 **Hardware Components:**  
 - **Microcontroller** – Arduino-based control  
