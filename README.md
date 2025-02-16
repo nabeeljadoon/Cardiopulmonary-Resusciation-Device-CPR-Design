@@ -2,6 +2,9 @@
 # 🚑 Low-Cost Intelligent Cardiopulmonary Resuscitation (CPR) Device  
 **An Affordable, Smart, and Mechatronic Life-Saving Marvel**  
 
+![20180218_205242](https://github.com/user-attachments/assets/cc55ca12-5290-4bcf-828e-3017df66ed78)
+
+
 ## 📜 Project Overview  
 **Cardiac arrest is one of the leading causes of sudden fatalities worldwide.**  
 With manual chest compressions being **exhausting, inconsistent, and error-prone**, this project presents an **intelligent, low-cost, and efficient Cardiopulmonary Resuscitation (CPR) device** designed to enhance **blood flow augmentation** and **hemodynamic stability**.  
