@@ -100,11 +100,4 @@ If you use this project for research, please cite:
 
 📢 **For medical use, this device requires further regulatory approvals before commercialization.**  
 
-
-## 📬 Stay Updated  
-
-🔹 **Pre-Print Release Coming Soon!**  
-🔹 **Follow the Project for Future Enhancements**  
-🔹 **Contact:** [Your Email / GitHub Discussions]  
-
 🚑 *"Because Every Second Counts in a Cardiac Arrest!"* 🚑  
