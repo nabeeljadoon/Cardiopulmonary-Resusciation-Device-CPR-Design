@@ -17,7 +17,7 @@ This **dual-mechanism CPR device** integrates:
 
 This project aligns with the **American Heart Association (AHA) CPR Guidelines** and has been optimized for use across **children, adults, and senior citizens**.  
 
-> 🚀 **A Pre-Print of this Research Has Been Submitted!** Stay tuned for its release.  
+> 🚀 **A Pre-Print of this Research Has Been Submitted!** Check out: https://arxiv.org/abs/2502.11171  
 
 ## 🛠 Features & Innovations  
 
