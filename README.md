@@ -94,9 +94,8 @@ This project aligns with the **American Heart Association (AHA) CPR Guidelines**
 
 ## 📜 References & Citation  
 
-If you use this project for research, please cite:  
-> **Nabeel Ahmad Khan Jadoon, Faisal Fraz, Abdul Wakil.** *Design and Fabrication of a Low-Cost Cardiopulmonary Resuscitation Device*. University of Engineering & Technology, Peshawar. 2018.  
-
+If you use this project for research, please check publication for more details:
+https://arxiv.org/abs/2502.11171
 
 ## 🛡 License  
 📄 This project is released under the **MIT License**.  
