@@ -78,11 +78,7 @@ This project aligns with the **American Heart Association (AHA) CPR Guidelines**
 
 ✅ **Successfully Developed & Tested Prototype**  
 ✅ **Meets AHA & ERC Guidelines for Effective CPR**  
-✅ **Pre-Print Submitted – Awaiting Publication**  
-🚀 **Future Work**:  
-- **Miniaturization** for portability  
-- **Battery-Powered Version** for field use  
-- **AI-Driven Compression Adjustment** for real-time patient conditions  
+
 
 ## 🤝 Contributing  
 
